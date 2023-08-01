@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+
+}
+div{
+    background-color: #CDBE78;
+    padding: 40px 70px;
+    border-radius: 70px;
+}
+.Clock{
+    position: absolute;
+    color: #066163;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 50px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    font-weight: 900;
+}
